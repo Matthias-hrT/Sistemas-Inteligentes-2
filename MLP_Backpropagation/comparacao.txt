@@ -1,0 +1,5 @@
+Comparação feita com divisão 70/30 para treino e teste -> Threshold: 1e-2 -> Seed: 42 -> Learning Rate: 0.1
+
+MLP manual                   -> Acuracia: 97.1429% Epocas: 3634 -> Avg Error: 0.00999935 -> Exec Time: 742 ms
+MLP dlib sem otimizador      -> Acuracia: 95.5556% Epocas: 5000 -> Avg Error: 0.100269   -> Exec Time: 835 ms
+MLP dlib com otimizador Adam -> Acuracia: 95.5556% Epocas: 5000 -> Avg Error: 0.0684694  -> Exec Time: 885 ms
